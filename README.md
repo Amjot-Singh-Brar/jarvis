@@ -1,5 +1,4 @@
-# jarvis
-Meet Jarvis your personal assistant 
+# Meet Jarvis your personal assistant 
 ## Componets used:
 	1. ESP 32
 	2. ESP 32cam
